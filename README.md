@@ -17,12 +17,15 @@
 ## 예상 흐름
 
 ![Screenshot_20200809-204431](https://user-images.githubusercontent.com/53070557/160723718-d17fb9c1-1e2c-4133-8f0e-482c4760b8a2.png)
+
 시작 버튼을 눌러 게임에 진입하면 다음과 같은 초기 화면을 구성한다.
 
 ![Screenshot_20200809-223007](https://user-images.githubusercontent.com/53070557/160723776-5aff8a2d-cdfd-4df7-a3fd-468d68f55c4d.png)
+
 유닛을 뽑고 강화 및 배치하며 일정 시간마다 몰려오는 웨이브를 막아내도록 한다.
 
 ![640](https://user-images.githubusercontent.com/53070557/160723841-42cbd5d7-85df-4d65-877a-929425bedd7b.png)
+
 중간에 적이나 아군 유닛을 터치하면 그 정보를 출력하도록 한다.
 좌측에 웨이브 목록이 출력되는데 이를 모두 막아내면 성공, 중간에 필드에 소환된 적의 개체수가 일정 갯수 이상 넘어가면 패배하는 것으로 한다.
 
